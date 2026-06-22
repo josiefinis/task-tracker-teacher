@@ -17,3 +17,7 @@ Extrauppgift: [Extrauppgift på arrayer, if, loopar](https://github.com/Lexicon-
 Dag 4: [Funktioner](https://github.com/Lexicon-Utbildning-Front-end-2026/typescript-dag4-ovning)
 
 Extrauppgift: [Extrauppgift på funktioner](https://github.com/Lexicon-Utbildning-Front-end-2026/typescript-dag4-extrauppgift)
+
+Dag 5: [Objekt](https://github.com/Lexicon-Utbildning-Front-end-2026/typescript-dag5-ovning)
+
+Extrauppgift: [Extrauppgift på objekt](https://github.com/Lexicon-Utbildning-Front-end-2026/typescript-dag5-extrauppgift)
